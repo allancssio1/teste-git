@@ -3,5 +3,3 @@ mudando na branch nova
 mudança na branch nova 1
 mudando na branch nova antiga
 mudando de novo
-
-mudando github no stash local
